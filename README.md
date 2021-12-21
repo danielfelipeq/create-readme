@@ -10,7 +10,7 @@
     - [2.2 Planteamiento del problema](#22-planteamiento-del-problema)
   - [3. Resolución del problema](#3-resolución-del-problema)
   - [4. Prototipos y recursos](#4-prototipos-y-recursos)
-  - [5. Historia de Usuario](#5-historia-de-usuario)
+  - [5. Requerimientos del proyecto](#5-requerimientos-del-proyecto)
   - [6. Acceso a la plataforma](#6-acceso-a-la-plataforma)
   - [7. Recursos](#7-recursos)
   - [8. Tecnologías utilizadas](#8-teconologías-utilizadas)
@@ -18,6 +18,7 @@
   
 ## 1. Preámbulo
 LOKiERO es una aplicacion de subastas online donde cada usuario tendra la oportunidad de conseguir su producto deseado.
+La aplicación es parte de un reto de Make it Real.
 
 ## 2. Definición del Proyecto
 
@@ -41,7 +42,8 @@ La aplicacion permitira a los usuarios navegar a traves de la aplicacion buscar 
 
 * Organización ([Trello](https://trello.com/b/YGiU1FFL/data-lovers))
 
-## 5. Historia de Usuario
+## 5. Requerimientos del proyecto
+
 ✅ La aplicación debe tener un menú que le permita al usuario navegar entre páginas.
 
 ✅ La aplicacion listara la información del producto.
