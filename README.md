@@ -30,10 +30,11 @@ La aplicacion permitira a los usuarios navegar a traves de la aplicacion buscar 
 
 * Prototipo alta fidelidad
  
-![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/image-1.png)
-![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/image-2.png)
+![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/imagen-1.png)
 
-* Prototipo alta fidelidad (Movil)([Figma2](https://www.figma.com/proto/mlekiWaZEfPKZRXJwKQY1Z/prototipo?node-id=96%3A9872&viewport=112%2C329%2C0.34203875064849854&scaling=scale-down))
+![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/imagen-2.png)
+
+![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/imagen-3.png)
 
 * Organización ([Trello](https://trello.com/b/YGiU1FFL/data-lovers))
 
