@@ -9,7 +9,7 @@
     - [2.1 Perfil de usuario](#21-perfil-de-usuario)
     - [2.2 Planteamiento del problema](#22-planteamiento-del-problema)
   - [3. Resolución del problema](#3-resolución-del-problema)
-  - [4. Prototipos y recursos](#4-dprototipos-y-recursos)
+  - [4. Prototipos y recursos](#4-prototipos-y-recursos)
   - [5. Historia de Usuario](#5-historia-de-usuario)
   - [6. Acceso a la plataforma](#6-acceso-a-la-plataforma)
   
