@@ -2,7 +2,7 @@
 
 ## Índice
 
-- [Assesment I](#assesment-i)
+- [LOKiERO](#lokiero)
   - [Índice](#índice)
   - [1. Preámbulo](#1-preámbulo)
   - [2. Definición del proyecto](#2-definición-del-proyecto)
@@ -28,12 +28,22 @@ Los usuarios testeados saben los precios relativos de los productos en el mercad
 La aplicacion permitira a los usuarios navegar a traves de la aplicacion buscar y listar los productos, y por cada producto el usuario podra competir y obtenerlo.
 ## 4. Prototipos y recursos
 
-* Prototipo alta fidelidad (Desktop)([Figma1](https://www.figma.com/proto/mlekiWaZEfPKZRXJwKQY1Z/prototipo?node-id=60%3A19&viewport=752%2C540%2C0.17928902804851532&scaling=scale-down))
+* Prototipo alta fidelidad
+ 
+![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/image-1.png)
+![MAIN PAGE](https://github.com/danielfelipeq/create-readme/blob/main/image-2.png)
 
 * Prototipo alta fidelidad (Movil)([Figma2](https://www.figma.com/proto/mlekiWaZEfPKZRXJwKQY1Z/prototipo?node-id=96%3A9872&viewport=112%2C329%2C0.34203875064849854&scaling=scale-down))
 
 * Organización ([Trello](https://trello.com/b/YGiU1FFL/data-lovers))
 
 ## 5. Historia de Usuario
+✅ La aplicación debe tener un menú que le permita al usuario navegar entre páginas.
+
+✅ La aplicacion listara la información del producto.
+
+✅ Los productos deberan tener un limite de tiempo para obtener la oferta.
+
+✅ La aplicacion sera diseñada first-mobile.
 
 ## 6. Acceso a la Plataforma
