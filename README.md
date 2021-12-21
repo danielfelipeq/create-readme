@@ -14,6 +14,7 @@
   - [6. Acceso a la plataforma](#6-acceso-a-la-plataforma)
   - [7. Recursos](#7-recursos)
   - [8. Tecnologías utilizadas](#8-teconologías-utilizadas)
+  - [9. Instalación](#9-instalación)
   
 ## 1. Preámbulo
 LOKiERO es una aplicacion de subastas online donde cada usuario tendra la oportunidad de conseguir su producto deseado.
@@ -69,7 +70,7 @@ La aplicacion permitira a los usuarios navegar a traves de la aplicacion buscar 
  * [React Router](https://reactrouter.com/)
  * [Styled Components](https://styled-components.com/)
 
-#### 🚀Instalación 🔧
+## 9. Instalación
 1) Tener un 📝 editor de texto.
 2) Si usas un sistema operativo "UNIX-like", como GNU/Linux o MacOS, ya tienes una shell (terminal) instalada por defecto (y probablemente git también 🐧). Si usas Windows puedes usar Git bash.
 3) Haz tu propio 🍴 fork del repositorio.
