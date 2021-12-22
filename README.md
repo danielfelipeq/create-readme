@@ -52,6 +52,8 @@ La aplicacion permitira a los usuarios navegar a traves de la aplicacion buscar 
 
 ✅ La aplicacion sera diseñada first-mobile.
 
+✅ El proyecto debe tener configurado ESLint y el Prettier y los archivos no deben tener problemas con estos.
+
 ## 6. Acceso a la Plataforma
 
 ## 7. Recursos
